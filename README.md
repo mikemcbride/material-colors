@@ -24,7 +24,7 @@ To set background-color, use ".bg-" plus the class name. The following code will
 
 ### Stroke
 
-To set stroke, use ".stroke-" plus the class name. The following code will set the stoke on an SVG to use the 500 variant of red.
+To set stroke, use ".stroke-" plus the class name. The following code will set the stroke on an SVG to use the 500 variant of red.
 
 ```
 <svg class="stroke-red-500"></svg>
@@ -32,7 +32,7 @@ To set stroke, use ".stroke-" plus the class name. The following code will set t
 
 ### Fill
 
-To set fill, use ".fill-" plus the class name. The following code will set the stoke on an SVG to use the 500 variant of red.
+To set fill, use ".fill-" plus the class name. The following code will set the fill on an SVG to use the 500 variant of red.
 
 ```
 <svg class="fill-red-500"></svg>
